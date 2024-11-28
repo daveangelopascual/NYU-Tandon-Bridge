@@ -2,9 +2,9 @@
  
 NYU Tandon Bridge is a non-credit, immersive course designed to offer individuals without a technical background a solid foundation in technical skills to pursue a graduate degree in STEM fields. This fully online program is taught by NYU Tandon computer science faculty and covers complex topics such as discrete math, data structures and algorithms, and principles of operating systems.
 
-Course Topics
-Application Layer, Network Layer and Transport Layer
-Arrays
+Course Topics: \n
+Application Layer, Network Layer and Transport Layer, 
+Arrays, 
 Branching Statements
 Coding Functions, Abstraction and Runtime stack
 Compilation and Execution process
